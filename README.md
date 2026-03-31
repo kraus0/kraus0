@@ -7,18 +7,18 @@ Sou Kauan Maffei Kraus, estudante de Análise e Desenvolvimento de Sistemas e De
 Tenho interesse constante em aprofundar meus conhecimentos em Back-end, explorando Node.js, integração com bancos de dados e estruturação de projetos robustos. Busco evoluir continuamente por meio de estudos e projetos práticos, sempre priorizando clareza, eficiência e qualidade no desenvolvimento de software.
 
 <p align="left">
-    <a href="https://github.com/Kauanmaffeikraus?tab=repositories&sort=stargazers">
+    <a href="https://github.com/kraus0?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Kauanmaffeikraus?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/kraus0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Kauanmaffeikraus?tab=followers">
+    <a href="https://github.com/kraus0?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Kauanmaffeikraus?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/kraus0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
